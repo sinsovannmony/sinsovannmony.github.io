@@ -1,0 +1,143 @@
+.div1
+{
+	background-color: blue;
+	position: absolute;
+	width: 100px;
+	height: 1000px;
+
+
+}
+.div2
+{
+	background-color: yellow;
+	position: absolute;
+	height: 1000px;
+	width: 100px;
+	left: 100px;
+	top: 50px;
+	}
+.div3
+{background-color: red;
+	position:absolute;
+	height: 1000px;
+	width: 100px;
+	left: 190px;
+	top: 100px;
+}
+.div4
+{
+	background-color: green;
+	position: absolute;
+	height: 1000px;
+	width: 100px;
+	left: 280px;
+	top: 150px;
+}
+.div5
+{
+	background-color: orange;
+	position: absolute;
+	height: 1000px;
+	width: 100px;
+	left: 370px;
+	top: 200px;
+}
+.div6
+{
+	background-color:pink;
+	position: absolute;
+	height: 1000px;
+	width: 100px;
+	left: 460px;
+	top: 250px;
+}
+.div7
+{
+	background-color:gray;
+	position: absolute;
+	height: 1000px;
+	width: 100px;
+	left: 550px;
+	top: 300px;
+}
+.div8
+{
+	background-color:red;
+	position: absolute;
+	height: 1000px;
+	width: 100px;
+	left: 640px;
+	top: 350px;
+}
+.div9
+{
+	background-color:brown;
+	position: absolute;
+	height: 1000px;
+	width: 100px;
+	left: 730px;
+	top: 400px;
+}
+.div10
+{
+	background-color: blue;
+	position: absolute;
+	height: 1000px;
+	width: 100px;
+	left:820px;
+	top:450px;
+}
+.div11
+{
+	background-color: yellow;
+	position: absolute;
+	height: 1000px;
+	width: 100px;
+	left:910px;
+	top:500px;
+}
+.div12
+{
+	background-color: green;
+	position: absolute;
+	height: 1000px;
+	width: 100px;
+	left:1000px;
+	top:550px;
+}
+.div13
+{
+	background-color: orange;
+	position: absolute;
+	width: 100px;
+	height: 1000px;
+	left:1090px;
+	top:600px;
+}
+.div14
+{
+	background-color: pink;
+	position: absolute;
+	width: 100px;
+	height: 1000px;
+	left:1180px;
+	top:650px;
+}
+.div15
+{
+	background-color:gray;
+	position: absolute;
+	width: 100px;
+	height: 1000px;
+	left:1270px;
+	top:700px;
+}
+.div16
+{
+	background-color: red;
+	position: absolute;
+	width: 100px;
+	height: 1000px;
+	left:1360px;
+	top:750px;
+}
